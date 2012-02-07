@@ -1,0 +1,1 @@
+This is an Arduino-based project with several interesting hardware and software features.  It is intended as a demonstration only.  For more information, read my blog post at http://adventuresinarduinoland.blogspot.com/2012/02/high-tech-night-light.html
